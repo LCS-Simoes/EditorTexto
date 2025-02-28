@@ -76,7 +76,7 @@ namespace EditorTexto
                     line = ler_stream.ReadLine();
                 }
                 
-                ler_stream.Close() ;    
+                ler_stream.Close();
             }
             catch (Exception e)
             {
